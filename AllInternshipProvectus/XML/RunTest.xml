@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RunTest" verbose="1">
+
+	<test name="Run test Rozetka.">
+		<classes>
+			<class name="Test.TestRozetka" />
+		</classes>
+	</test>
+</suite>
